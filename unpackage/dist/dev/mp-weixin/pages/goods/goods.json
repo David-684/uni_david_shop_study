@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "David商城",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "goods-list": "/components/goods-list"
+  }
+}
